@@ -1,0 +1,6 @@
+name: SlimefunPlaceholder
+version: '${version}'
+description: Adds Slimefun support to PlaceholderAPI.
+authors: [EAirPeter, TheLittle_Yang]
+main: moe.eairpeter.sfpapi.SlimefunPlaceholder
+depend: [PlaceholderAPI, Slimefun]
